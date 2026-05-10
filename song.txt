@@ -5,9 +5,3 @@ on this their chosen battle field
 
 Form the lines
 Shield by shield
-<<<<<<< HEAD
-
-more content
-------------------------
-=======
->>>>>>> parent of 81459a6 (add second cuplet)
